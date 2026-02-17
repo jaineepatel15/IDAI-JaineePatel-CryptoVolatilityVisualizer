@@ -32,4 +32,4 @@ User Research Insights and Survey Summary:
 
 User research and informal surveys indicated that most beginners struggle to understand cryptocurrency markets through numerical data alone. Users expressed a strong preference for interactive and visual learning tools that allow them to experiment and observe outcomes in real time. Based on these insights, the app was designed with a clean interface, minimal controls, and dynamic charts to encourage exploration, improve understanding, and make learning about crypto volatility more engaging and accessible.
 
-Streamlet: https://idai-jaineepatel-cryptovolatilityvisualizer-wumnezqnahf4lycp2d.streamlit.app/ 
+Streamlit: https://idai-jaineepatel-cryptovolatilityvisualizer-wumnezqnahf4lycp2d.streamlit.app/ 
