@@ -10,12 +10,14 @@ Objective:
 The main objective of this project is to demonstrate how mathematical functions and data analysis can be applied to real-world financial markets. The app aims to help users analyze cryptocurrency price movements, identify volatility patterns, and understand the impact of market fluctuations in an interactive and intuitive way. It also serves as a learning tool for students by connecting mathematics, programming, and financial data.
 
 Target Audience:
+
 Students studying Artificial Intelligence, Data Science, or Finance
 Beginners who want to understand cryptocurrency market behavior
 Educators looking for a visual tool to explain volatility and trends
 Individuals interested in exploring crypto data without deep technical knowledge
 
-User Persona (User Problems):
+User Persona:
+
 User Type: Student / Beginner Crypto Enthusiast
 Key Problems-
 Difficulty interpreting raw cryptocurrency price data
@@ -27,3 +29,5 @@ Allows users to explore price behavior using adjustable parameters
 Helps users visually compare stable and volatile market periods
 
 User Research Insights and Survey Summary:
+
+User research and informal surveys indicated that most beginners struggle to understand cryptocurrency markets through numerical data alone. Users expressed a strong preference for interactive and visual learning tools that allow them to experiment and observe outcomes in real time. Based on these insights, the app was designed with a clean interface, minimal controls, and dynamic charts to encourage exploration, improve understanding, and make learning about crypto volatility more engaging and accessible.
